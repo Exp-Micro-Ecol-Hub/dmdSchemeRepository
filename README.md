@@ -1,2 +1,2 @@
 # dmdSchemeRepository
- Collection of ideas for a central repository for the `dmdScheme`s
+ Collection of ideas for a central repository for  `dmdScheme` derived MetaData Schemes.
