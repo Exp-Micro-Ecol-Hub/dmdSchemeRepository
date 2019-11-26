@@ -7,6 +7,10 @@ The folder is copied into the `dmdSchemePackageDir/installedSchemes` folder.
 
 Below, the different versions are explained in detail.
 
+To add a scheme definition please either
+- clone the repo and send a pull request
+- contact the maintainer of this repo at Rainer.Krug@uzh.ch
+
 ## **1.0.0**
 
 The package contains at least the folllowing files:
