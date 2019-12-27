@@ -2,7 +2,9 @@ dmdScheme_0.9.5:
   name: dmdScheme
   version: 0.9.5
   description: Demo scheme from the dmdScheme package in R
+  install_R_package: NULL
 emeScheme_0.9.5:
   name: emeScheme
   version: 0.9.5
   description: Scheme for Ecological Microcosom Experiments
+  install_R_package: devtools::install_github("Exp-Micro-Ecol-Hub/emeScheme",ref = "master", force = TRUE)
