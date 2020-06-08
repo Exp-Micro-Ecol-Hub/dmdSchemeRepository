@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+dmdSchemeRepository.Rproj
+!schemes/*.tar.gz
