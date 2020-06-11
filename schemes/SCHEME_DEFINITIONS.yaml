@@ -2,11 +2,15 @@ dmdScheme_0.9.5:
   name: dmdScheme
   version: 0.9.5
   description: Demo scheme from the dmdScheme package in R
-emeScheme_0.9.5:
-  name: emeScheme
-  version: 0.9.5
-  description: Scheme for Ecological Microcosom Experiments
 dmdScheme_0.9.9:
   name: dmdScheme
   version: 0.9.9
   description: Demo scheme from the dmdScheme package in R including bibliometric metadata
+emeScheme_0.9.5:
+  name: emeScheme
+  version: 0.9.5
+  description: Scheme for Ecological Microcosom Experiments
+emeScheme_0.9.9:
+  name: emeScheme
+  version: 0.9.5
+  description: Scheme for Ecological Microcosom Experiments
