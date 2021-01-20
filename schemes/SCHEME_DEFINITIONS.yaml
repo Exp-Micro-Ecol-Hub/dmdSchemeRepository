@@ -14,3 +14,7 @@ emeScheme_0.9.9:
   name: emeScheme
   version: 0.9.5
   description: Scheme for Ecological Microcosom Experiments
+emeScheme_1.0.0:
+  name: emeScheme
+  version: 1.0.0
+  description: Scheme for Ecological Microcosom Experiments

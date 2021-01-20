@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>884E7545-3194-47E9-902C-793FA8E3F6B8</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>884E7545-3194-47E9-902C-793FA8E3F6B8</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9vaxwDAAAAAAQQMAAAALHQH2Rxn4TcfIE0qPmHUNah
+				QUVCvmKllFLJS137xH1ZGAIAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAKAAAAAQEAAHJhaW5lcmtydWcA
+				AA8AAAABAQAARG9jdW1lbnRzX0xvY2FsAAMAAAABAQAA
+				Z2l0AAkAAAABAQAAZG1kU2NoZW1lAAAAEwAAAAEBAABk
+				bWRTY2hlbWVSZXBvc2l0b3J5ABgAAAABBgAAEAAAACAA
+				AAA0AAAATAAAAFgAAABsAAAACAAAAAQDAAAeuwoAAAAA
+				AAgAAAAEAwAA2rkMAAAAAAAIAAAABAMAAM98kgIAAAAA
+				CAAAAAQDAAD8UZICAAAAAAgAAAAEAwAACN7dAgAAAAAI
+				AAAABAMAAEOp4AEAAAAAGAAAAAEGAACoAAAAuAAAAMgA
+				AADYAAAA6AAAAPgAAAAIAAAAAAQAAEHBkS3YgAAAGAAA
+				AAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAIAAAA
+				BAMAAAQAAAAAAAAABAAAAAMDAAD3AQAACAAAAAEJAABm
+				aWxlOi8vLwoAAAABAQAARHVtYmxlZG9yZQAACAAAAAQD
+				AAAAwLSD3wAAAAgAAAAABAAAQcGwZlxRjxskAAAAAQEA
+				ADQ1REExQkQyLTU4QzItNDA5RC04NTY4LUQ0NUM4QzQ4
+				MTJCMBgAAAABAgAAgQAAAAEAAADvEwAAAQAAAAAAAAAA
+				AAAAAQAAAAEBAAAvAAAAAAAAAAEFAADMAAAA/v///wEA
+				AAAAAAAAEAAAAAQQAACIAAAAAAAAAAUQAAAIAQAAAAAA
+				ABAQAAA4AQAAAAAAAEAQAAAoAQAAAAAAAAIgAAAEAgAA
+				AAAAAAUgAAB0AQAAAAAAABAgAACEAQAAAAAAABEgAAC4
+				AQAAAAAAABIgAACYAQAAAAAAABMgAACoAQAAAAAAACAg
+				AADkAQAAAAAAADAgAAAQAgAAAAAAAAHAAABYAQAAAAAA
+				ABHAAAAgAAAAAAAAABLAAABoAQAAAAAAABDQAAAEAAAA
+				AAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/rainerkrug/Documents_Local/git/dmdScheme/dmdSchemeRepository/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>dmdSchemeRepository</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
